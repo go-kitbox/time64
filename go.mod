@@ -1,4 +1,4 @@
-module github.com/go-utils2/time64
+module github.com/go-kitbox/time64
 
 go 1.24.5
 
